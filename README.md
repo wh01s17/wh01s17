@@ -120,7 +120,7 @@ Proyectos personales y académicos relacionados con:
 ## Contact
 
 LinkedIn  
-https://linkedin.com/in/TUUSUARIO
+[linkedin.com](www.linkedin.com/in/jordy-pérez-osorio-6553a512b)
 
 GitHub  
-[https://github.com/TUUSUARIO](https://github.com/wh01s17)
+[github.com/wh01s17](https://github.com/wh01s17)
