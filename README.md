@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.webp" />
+<img src="banner.webp" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -40,8 +40,6 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-
-### Cybersecurity
 
 ### Cybersecurity
 
