@@ -27,10 +27,11 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 ![Vue](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 
 ### Backend
 
