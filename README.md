@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.webp" width="900">
+<img src="banner.webp" width="880">
 </p>
 
 <h1 align="center">
