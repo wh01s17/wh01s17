@@ -38,14 +38,13 @@ Actualmente lidero procesos formativos en programas intensivos de desarrollo Fro
 
 ### Security
 
-![OWASP](https://img.shields.io/badge/OWASP-black?style=for-the-badge&logo=owasp)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-black?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-black?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge)
 ![Hydra](https://img.shields.io/badge/Hydra-black?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash_Scripting-black?style=for-the-badge&logo=gnubash)
-![OSINT](https://img.shields.io/badge/OSINT-black?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
+![JohnTheRipper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge)
 
 ---
 
