@@ -36,7 +36,7 @@ Actualmente lidero procesos formativos en programas intensivos de desarrollo Fro
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
-### Security
+### Cybersecurity
 
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-black?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
