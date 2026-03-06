@@ -44,24 +44,6 @@ Actualmente lidero procesos formativos en programas intensivos de desarrollo Fro
 
 ---
 
-## Security Practice
-
-Experiencia práctica en:
-
-- 100+ máquinas CTF
-- HackMyVM
-- VulnHub
-- Vulnyx
-
-Enfocado en:
-
-- Web exploitation
-- Linux privilege escalation
-- Vulnerability analysis
-- Offensive security labs
-
----
-
 ## GitHub Stats
 
 <p align="center">
