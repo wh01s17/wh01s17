@@ -1,6 +1,8 @@
-<img src="banner.png" />
+<img src="banner.webp" />
 
+<div style="display: flex; justify-content: center; margin-bottom: 10px">
 Ethical Hacking | Front-End Developer | REUF Instructor (SENCE)
+</div>
 
 Front-end developer and bootcamp instructor with experience in modern web development, technical training, and cybersecurity applied to web applications.
 
