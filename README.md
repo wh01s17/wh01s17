@@ -27,7 +27,7 @@ Actualmente lidero procesos formativos en programas intensivos de desarrollo Fro
 
 ### Databases
 
-![Firestore](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+![Firestore](https://img.shields.io/badge/Firestore-black?style=for-the-badge&logo=firebase)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 
 ### Tools
