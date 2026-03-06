@@ -53,13 +53,3 @@ Actualmente lidero procesos formativos en programas intensivos de desarrollo Fro
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wh01s17&layout=compact&theme=tokyonight" height="165"/>
 
 </p>
-
----
-
-## Contact
-
-LinkedIn  
-[linkedin.com](www.linkedin.com/in/jordy-pérez-osorio-6553a512b)
-
-GitHub  
-[github.com/wh01s17](https://github.com/wh01s17)
