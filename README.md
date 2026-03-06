@@ -1,4 +1,4 @@
-# Jordy Pérez
+# wh01s17
 
 Front-End Developer | Web Security | Facilitador REUF (SENCE)
 
@@ -107,9 +107,13 @@ Proyectos personales y académicos relacionados con:
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=wh01s17&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh01s17&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wh01s17&show_icons=true&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wh01s17&layout=compact&theme=tokyonight" height="165"/>
+
+</p>
 
 ---
 
@@ -119,4 +123,4 @@ LinkedIn
 https://linkedin.com/in/TUUSUARIO
 
 GitHub  
-https://github.com/TUUSUARIO
+[https://github.com/TUUSUARIO](https://github.com/wh01s17)
