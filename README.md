@@ -23,6 +23,7 @@ Actualmente lidero procesos formativos en programas intensivos de desarrollo Fro
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
 
 ### Databases
 
