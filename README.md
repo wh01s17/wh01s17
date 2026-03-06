@@ -1,10 +1,10 @@
 # wh01s17
 
-Ethical Hacking | Front-End Developer | Facilitador REUF (SENCE)
+Ethical Hacking | Front-End Developer | REUF Instructor (SENCE)
 
-Desarrollador front-end y relator en bootcamps de programación con experiencia en desarrollo web moderno, formación técnica y ciberseguridad aplicada a aplicaciones web.
+Front-end developer and bootcamp instructor with experience in modern web development, technical training, and cybersecurity applied to web applications.
 
-Actualmente lidero procesos formativos en programas intensivos de desarrollo Front-End y Full Stack, acompañando a estudiantes desde los fundamentos web hasta la construcción de aplicaciones modernas y portafolios profesionales.
+I currently lead training processes in intensive Front-End and Full Stack development programs, guiding students from web fundamentals to building modern applications and professional portfolios.
 
 ---
 
