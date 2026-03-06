@@ -1,12 +1,14 @@
+<p align="center">
 <img src="banner.webp" />
+</p>
 
 <h1 align="center">
-Ethical Hacking | Front-End Developer | REUF Instructor (SENCE)
+Ethical Hacking • Front-End Developer • REUF Instructor (SENCE)
 </h1>
 
-Front-end developer and bootcamp instructor with experience in modern web development, technical training, and cybersecurity applied to web applications.
+Front-end developer and bootcamp instructor focused on modern web development, technical education, and cybersecurity for web applications.
 
-I currently lead training processes in intensive Front-End and Full Stack development programs, guiding students from web fundamentals to building modern applications and professional portfolios.
+I lead intensive Front-End and Full Stack training programs, guiding students from web fundamentals to building production-ready applications and professional portfolios.
 
 ---
 
@@ -41,13 +43,15 @@ I currently lead training processes in intensive Front-End and Full Stack develo
 
 ### Cybersecurity
 
-![BurpSuite](https://img.shields.io/badge/BurpSuite-black?style=for-the-badge)
+### Cybersecurity
+
 ![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-black?style=for-the-badge)
 ![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-black?style=for-the-badge)
 ![Hydra](https://img.shields.io/badge/Hydra-black?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
 ![JohnTheRipper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
 
 ---
 
