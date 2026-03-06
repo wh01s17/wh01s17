@@ -1,6 +1,6 @@
 # wh01s17
 
-Front-End Developer | Web Security | Facilitador REUF (SENCE)
+Ethical Hacking | Front-End Developer | Facilitador REUF (SENCE)
 
 Desarrollador front-end y relator en bootcamps de programación con experiencia en desarrollo web moderno, formación técnica y ciberseguridad aplicada a aplicaciones web.
 
@@ -46,7 +46,7 @@ Actualmente lidero procesos formativos en programas intensivos de desarrollo Fro
 
 ## Experience
 
-### Relator / Tutor Académico — Front-End Bootcamp
+### Relator / Tutor Académico - Front-End Bootcamp
 
 Bootcamp Desarrollo de Aplicaciones Front-End (438 hrs)
 
@@ -57,7 +57,7 @@ Bootcamp Desarrollo de Aplicaciones Front-End (438 hrs)
 - Control de versiones con Git y GitHub
 - Acompañamiento en la creación de portafolios profesionales
 
-### Tutor — Full Stack Python Bootcamp
+### Tutor - Full Stack Python Bootcamp
 
 - Desarrollo web con Django
 - ORM y bases de datos
@@ -65,7 +65,7 @@ Bootcamp Desarrollo de Aplicaciones Front-End (438 hrs)
 - Programación en Python
 - Integración Front-End / Backend
 
-### Tutor — Hacking Ético en Aplicaciones Web
+### Tutor - Hacking Ético en Aplicaciones Web
 
 - Diseño de laboratorios CTF
 - Vulnerabilidades OWASP Top 10
