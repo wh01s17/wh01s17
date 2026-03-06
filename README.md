@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.webp" width="100%"/>
+<img src="banner.webp" width="900">
 </p>
 
 <h1 align="center">
@@ -11,9 +11,13 @@ Ethical Hacking • Front-End Developer • REUF Instructor (SENCE)
 <img src="https://img.shields.io/github/followers/wh01s17?style=flat-square">
 </p>
 
+<p align="center">
 Front-end developer and bootcamp instructor focused on modern web development, technical education, and cybersecurity for web applications.
+</p>
 
+<p align="center">
 I lead intensive Front-End and Full Stack training programs, guiding students from web fundamentals to building production-ready applications and professional portfolios.
+</p>
 
 ---
 
