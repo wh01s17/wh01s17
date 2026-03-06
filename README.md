@@ -6,6 +6,11 @@
 Ethical Hacking • Front-End Developer • REUF Instructor (SENCE)
 </h1>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=wh01s17&color=blueviolet&style=flat-square">
+<img src="https://img.shields.io/github/followers/wh01s17?style=flat-square">
+</p>
+
 Front-end developer and bootcamp instructor focused on modern web development, technical education, and cybersecurity for web applications.
 
 I lead intensive Front-End and Full Stack training programs, guiding students from web fundamentals to building production-ready applications and professional portfolios.
