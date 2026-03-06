@@ -107,9 +107,9 @@ Proyectos personales y académicos relacionados con:
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=wh01s17&show_icons=true&theme=tokyonight)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wh01s17&layout=compact&theme=tokyonight)
 
 ---
 
