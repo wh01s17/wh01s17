@@ -44,37 +44,6 @@ Actualmente lidero procesos formativos en programas intensivos de desarrollo Fro
 
 ---
 
-## Experience
-
-### Relator / Tutor Académico - Front-End Bootcamp
-
-Bootcamp Desarrollo de Aplicaciones Front-End (438 hrs)
-
-- Formación en HTML5, CSS3, JavaScript moderno
-- Desarrollo de aplicaciones SPA con Vue.js
-- Arquitectura y organización de CSS (BEM, OOCSS, SMACSS)
-- Consumo de APIs y asincronía
-- Control de versiones con Git y GitHub
-- Acompañamiento en la creación de portafolios profesionales
-
-### Tutor - Full Stack Python Bootcamp
-
-- Desarrollo web con Django
-- ORM y bases de datos
-- Arquitectura básica de aplicaciones web
-- Programación en Python
-- Integración Front-End / Backend
-
-### Tutor - Hacking Ético en Aplicaciones Web
-
-- Diseño de laboratorios CTF
-- Vulnerabilidades OWASP Top 10
-- XSS, SQLi, CSRF, IDOR, LFI, SSTI, XXE
-- Pentesting con Burp Suite, Nmap, ffuf, Gobuster
-- Automatización de pentesting con Python
-
----
-
 ## Security Practice
 
 Experiencia práctica en:
@@ -90,18 +59,6 @@ Enfocado en:
 - Linux privilege escalation
 - Vulnerability analysis
 - Offensive security labs
-
----
-
-## Projects
-
-Proyectos personales y académicos relacionados con:
-
-- Aplicaciones web con Next.js y Firebase
-- Scripts OSINT en Bash
-- Laboratorios de ciberseguridad
-- Aplicaciones Django para pruebas de seguridad
-- Desarrollo de interfaces modernas con React y Tailwind
 
 ---
 
