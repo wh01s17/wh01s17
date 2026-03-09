@@ -51,6 +51,12 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" />
 </p>
 
+<h3 align="center">REUF Instructor (SENCE)</h3>
+
+<p align="center">
+  <img src="sence-logo.png" height="50"><br>
+</p>
+
 <br>
 
 <h2 align="center">Cybersecurity</h2>
