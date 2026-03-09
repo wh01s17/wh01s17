@@ -23,6 +23,8 @@ Front-end developer and bootcamp instructor focused on modern web development, t
 I lead intensive Front-End and Full Stack training programs, guiding students from web fundamentals to building production-ready applications and professional portfolios.
 </p>
 
+<br>
+
 <p align="center">
   <img src="sence-logo.png" height="50"><br>
   <sub>REUF Instructor - SENCE Certified Training Programs</sub>
