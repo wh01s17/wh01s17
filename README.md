@@ -70,6 +70,10 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
   <img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CTF Player-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HMV-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vulnhub-black?style=for-the-badge">
+
 </p>
 <br>
 
