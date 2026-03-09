@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=000000&center=true&vCenter=true&width=880&height=120&lines=%3CFront-End+Developer+/%3E;%3CEthical+Hacking+/%3E;%3CCTF+Player+/%3E;%3CBootcamp+Instructor+/%3E;%3CREUF+Instructor+(SENCE)+/%3E" />
-</p>
-
-<br>
-
-<p align="center">
   <img src="banner.webp" width="880">
 </p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=000000&center=true&vCenter=true&width=880&height=120&lines=%3CFront-End+Developer+/%3E;%3CEthical+Hacking+/%3E;%3CCTF+Player+/%3E;%3CBootcamp+Instructor+/%3E;%3CREUF+Instructor+(SENCE)+/%3E" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wh01s17&color=blueviolet&style=flat-square">
