@@ -48,7 +48,7 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 <h3 align="center">Tools / DevOps</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" />
 </p>
 
 <br>
@@ -56,7 +56,7 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 <h2 align="center">Cybersecurity</h2>
 
 <p align="center">
-  Nmap • Gobuster • ffuf • Burp Suite • Hydra • John the Ripper • Metasploit
+  <b>Nmap • Gobuster • ffuf • Burp Suite • Hydra • John the Ripper • Metasploit</b>
 </p>
 
 <br>
