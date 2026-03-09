@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=0D1117&center=true&vCenter=true&width=880&height=120&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=000000&center=true&vCenter=true&width=880&height=120&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
 </p>
 
 <br>
