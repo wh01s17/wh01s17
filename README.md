@@ -70,36 +70,44 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 
 <h2 align="center">Cybersecurity</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Gobuster-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/ffuf-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Burp_Suite-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Hydra-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/John_the_Ripper-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/CTF_Player-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/HackMyVM-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/VulnHub-111111?style=flat-square">
-</p>
+<pre>
+<span style="color:#75d41d">wh01s17@pwned:~$ nmap profile</span>
+PORT     SERVICE
+80/tcp   Web Security
+443/tcp  Ethical Hacking
+22/tcp   CTF Player
+1337/tcp Pentesting
 
-<br>
+<span style="color:#75d41d">wh01s17@pwned:~$ tools --list</span>
+Nmap
+Gobuster
+ffuf
+Burp Suite
+Hydra
+John the Ripper
+Metasploit
+
+<span style="color:#75d41d">wh01s17@pwned:~$ platforms</span>
+HackMyVM
+VulnHub
+Vulnyx
+</pre>
 
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wh01s17&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wh01s17&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wh01s17&show_icons=true&bg_color=0d1117&title_color=75d41d&text_color=c9d1d9&icon_color=75d41d&border_color=0d1117&hide_border=true&ring_color=75d41d" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wh01s17&layout=compact&bg_color=0d1117&title_color=75d41d&text_color=c9d1d9&border_color=0d1117&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wh01s17&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=wh01s17&background=0D1117&border=0D1117&stroke=75D41D&ring=75D41D&fire=75D41D&currStreakLabel=75D41D&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9&hide_border=true" height="165"/>
 </p>
 
 <h2 align="center">Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wh01s17&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wh01s17&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -108,10 +116,4 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-snake.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-snake.svg" />
   </picture>
-</p>
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/tetris.svg">
 </p>
