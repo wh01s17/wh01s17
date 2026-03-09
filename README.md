@@ -109,3 +109,9 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-snake.svg" />
   </picture>
 </p>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-contribution-grid-snake.svg">
+</p>
