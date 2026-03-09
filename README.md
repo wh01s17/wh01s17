@@ -71,12 +71,12 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 <h2 align="center">Cybersecurity</h2>
 
 ```bash
-wh01s17@pwned:~$ nmap profile
-PORT     SERVICE
-80/tcp   Web Security
-443/tcp  Ethical Hacking
-22/tcp   CTF Player
-1337/tcp Pentesting
+wh01s17@pwned:~$ echo $PROFILE
+ROLE        : Front-End Developer
+SECURITY    : Web Security
+ACTIVITY    : Ethical Hacking
+MODE        : CTF Player
+SPECIALTY   : Pentesting
 
 wh01s17@pwned:~$ tools --list
 Nmap
@@ -87,7 +87,7 @@ Hydra
 John the Ripper
 Metasploit
 
-wh01s17@pwned:~$ platforms
+wh01s17@pwned:~$ echo $PLATFORMS
 HackMyVM
 VulnHub
 Vulnyx
