@@ -70,15 +70,15 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 
 <h2 align="center">Cybersecurity</h2>
 
-<pre>
-<span style="color:#75d41d">wh01s17@pwned:~$ nmap profile</span>
+```bash
+wh01s17@pwned:~$ nmap profile
 PORT     SERVICE
 80/tcp   Web Security
 443/tcp  Ethical Hacking
 22/tcp   CTF Player
 1337/tcp Pentesting
 
-<span style="color:#75d41d">wh01s17@pwned:~$ tools --list</span>
+wh01s17@pwned:~$ tools --list
 Nmap
 Gobuster
 ffuf
@@ -87,11 +87,11 @@ Hydra
 John the Ripper
 Metasploit
 
-<span style="color:#75d41d">wh01s17@pwned:~$ platforms</span>
+wh01s17@pwned:~$ platforms
 HackMyVM
 VulnHub
 Vulnyx
-</pre>
+```
 
 <h2 align="center">GitHub Metrics</h2>
 
