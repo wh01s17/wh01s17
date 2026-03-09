@@ -2,7 +2,9 @@
   <img src="banner.webp" width="880">
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75d41d,100:75d41d&height=2&section=footer&width=900"/>
+</p>
 
 <br>
 
@@ -10,7 +12,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=50&pause=1200&color=75d41d&center=true&vCenter=true&width=880&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75d41d,100:75d41d&height=2&section=footer&width=900"/>
+</p>
 
 <br>
 
