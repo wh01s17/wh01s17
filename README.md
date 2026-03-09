@@ -63,9 +63,14 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 <h2 align="center">Cybersecurity</h2>
 
 <p align="center">
-  <b>Nmap • Gobuster • ffuf • Burp Suite • Hydra • John the Ripper • Metasploit</b>
+  <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge">
 </p>
-
 <br>
 
 <h2 align="center">GitHub Stats</h2>
