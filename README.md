@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75d41d,100:75d41d&height=2&section=footer&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75d41d,100:75d41d&height=2&section=footer"/>
 </p>
 
 <br>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75d41d,100:75d41d&height=2&section=footer&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75d41d,100:75d41d&height=2&section=footer"/>
 </p>
 
 <br>
