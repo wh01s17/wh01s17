@@ -73,13 +73,13 @@ SPECIALTY   : Pentesting
 wh01s17@pwned:~$ tools --list
 Nmap
 Gobuster
+Dirb
 ffuf
 Burp Suite
 Hydra
 John the Ripper
-Metasploit
 Hashcat
-Dirb
+Metasploit
 tcpdump
 Wireshark
 
