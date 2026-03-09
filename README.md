@@ -91,6 +91,9 @@ wh01s17@pwned:~$ echo $PLATFORMS
 HackMyVM
 VulnHub
 Vulnyx
+
+wh01s17@pwned:~$ sudo rm -rf / --no-preserve-root
+permission denied: self-destruct disabled
 ```
 
 <h2 align="center">GitHub Metrics</h2>
