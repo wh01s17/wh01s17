@@ -93,15 +93,16 @@ VulnHub
 Vulnyx
 </pre>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Metrics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wh01s17&show_icons=true&bg_color=0d1117&title_color=75d41d&text_color=c9d1d9&icon_color=75d41d&border_color=0d1117&hide_border=true&ring_color=75d41d" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wh01s17&layout=compact&bg_color=0d1117&title_color=75d41d&text_color=c9d1d9&border_color=0d1117&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wh01s17&show_icons=true&bg_color=0d1117&title_color=75d41d&text_color=c9d1d9&icon_color=75d41d&border_color=75d41d&ring_color=75d41d" height="165"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wh01s17&layout=compact&bg_color=0d1117&title_color=75d41d&text_color=c9d1d9&border_color=75d41d" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wh01s17&background=0D1117&border=0D1117&stroke=75D41D&ring=75D41D&fire=75D41D&currStreakLabel=75D41D&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=wh01s17&background=0D1117&border=75D41D&stroke=75D41D&ring=75D41D&fire=75D41D&currStreakLabel=75D41D&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" height="165"/>
 </p>
 
 <h2 align="center">Activity</h2>
