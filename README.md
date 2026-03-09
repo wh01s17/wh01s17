@@ -23,6 +23,11 @@ Front-end developer and bootcamp instructor focused on modern web development, t
 I lead intensive Front-End and Full Stack training programs, guiding students from web fundamentals to building production-ready applications and professional portfolios.
 </p>
 
+<p align="center">
+  <img src="sence-logo.png" height="50"><br>
+  <sub>REUF Instructor - SENCE Certified Training Programs</sub>
+</p>
+
 <br>
 
 <h2 align="center">Tech Stack</h2>
@@ -49,12 +54,6 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" />
-</p>
-
-<h3 align="center">REUF Instructor (SENCE)</h3>
-
-<p align="center">
-  <img src="sence-logo.png" height="50"><br>
 </p>
 
 <br>
