@@ -75,3 +75,15 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wh01s17&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-snake.svg" />
+  </picture>
+</p>
