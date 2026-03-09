@@ -28,7 +28,7 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 <h3 align="center">Front-End</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,css,sass,js,ts,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,css,js,ts,sass,tailwind,bootstrap" />
 </p>
 
 <h3 align="center">Backend</h3>
