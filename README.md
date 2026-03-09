@@ -63,18 +63,18 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 <h2 align="center">Cybersecurity</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CTF Player-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HMV-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Vulnhub-black?style=for-the-badge">
-
+  <img src="https://img.shields.io/badge/Nmap-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Gobuster-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/ffuf-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Burp_Suite-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Hydra-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/John_the_Ripper-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/CTF_Player-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/HackMyVM-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/VulnHub-111111?style=flat-square">
 </p>
+
 <br>
 
 <h2 align="center">GitHub Stats</h2>
