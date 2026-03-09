@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=70&pause=1200&color=75d41d&center=true&vCenter=true&width=880&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=68&pause=1200&color=75d41d&center=true&vCenter=true&width=880&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
 </p>
 
 <p align="center">
