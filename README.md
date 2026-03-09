@@ -80,6 +80,7 @@ Hashcat
 Metasploit
 tcpdump
 Wireshark
+Ghidra
 
 wh01s17@pwned:~$ echo $PLATFORMS
 HackMyVM
