@@ -113,5 +113,5 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/tetris.svg">
 </p>

@@ -1,4 +1,4 @@
-name: generate tetris
+name: Generate Tetris
 
 on:
     schedule:
@@ -13,9 +13,11 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - uses: yoshi389111/github-profile-tetris@main
+            - uses: Platane/snk@v3
               with:
                   github_user_name: wh01s17
+                  outputs: |
+                      dist/tetris.svg?palette=github-dark
 
             - uses: crazy-max/ghaction-github-pages@v4
               with:
