@@ -2,18 +2,10 @@
   <img src="banner.webp" width="880">
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75d41d,100:75d41d&height=2&section=footer"/>
-</p>
-
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&center=true&vCenter=true&width=880&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:75d41d,100:75d41d&height=2&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=0D1117&center=true&vCenter=true&width=880&height=120&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
 </p>
 
 <br>
