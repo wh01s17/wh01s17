@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/github/followers/wh01s17?style=flat-square">
 </p>
 
+<br />
+
 <p align="center">
 Front-end developer and bootcamp instructor focused on modern web development, technical education, and cybersecurity for web applications.
 </p>
