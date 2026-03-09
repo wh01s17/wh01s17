@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=30&pause=1200&color=75d41d&center=true&vCenter=true&width=880&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=55&pause=1200&color=75d41d&center=true&vCenter=true&width=880&lines=Front-End+Developer;Ethical+Hacking;CTF+Player;Bootcamp+Instructor;REUF+Instructor+(SENCE)" />
 </p>
+
+---
 
 <br>
 
