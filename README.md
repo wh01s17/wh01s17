@@ -41,13 +41,13 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 <h3 align="center">Backend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,django,firebase,supabase" />
 </p>
 
 <h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
 </p>
 
 <h3 align="center">Tools / DevOps</h3>
