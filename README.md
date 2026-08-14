@@ -103,7 +103,7 @@ permission denied: self-destruct disabled
         <img src="https://sudoaprende.com/og-image.png" alt="Terminal-style preview of the sudo-aprende learning platform" width="420">
       </a>
       <h3><a href="https://sudoaprende.com/">sudo-aprende</a></h3>
-      <p>An open interactive lab with 155 guided exercises for GNU/Linux and Git, pentesting labs, instant feedback, XP, achievements, and a community ranking.</p>
+      <p>An open interactive lab for GNU/Linux and Git with guided terminal exercises, pentesting labs, instant feedback, XP, achievements, and a community ranking.</p>
       <p><code>Vue 3 · TypeScript · Supabase · Vitest</code></p>
       <p><a href="https://sudoaprende.com/"><code>./start-learning</code></a></p>
     </td>
