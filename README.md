@@ -87,20 +87,28 @@ permission denied: self-destruct disabled
 
 <h2 align="center">Featured Projects</h2>
 
-<p align="center">
-  <a href="https://wh01s17.com/blog" aria-label="Open the wh01s17 blog and portfolio">
-    <img src="https://www.wh01s17.com/og.png" alt="wh01s17 blog and portfolio: CTF writeups, vulnerability notes, and technical articles" width="420">
-  </a>
-  <a href="https://sudoaprende.com/" aria-label="Open the sudo-aprende learning platform">
-    <img src="https://sudoaprende.com/og-image.png" alt="sudo-aprende: interactive GNU/Linux, Git, Cisco IOS, and cybersecurity learning platform" width="420">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wh01s17.com/blog"><code>./read-blog</code></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sudoaprende.com/"><code>./start-learning</code></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://wh01s17.com/blog" aria-label="Open the wh01s17 blog and portfolio">
+        <img src="https://www.wh01s17.com/og.png" alt="wh01s17 blog and portfolio: CTF writeups, vulnerability notes, and technical articles" width="420">
+      </a>
+      <h3><a href="https://wh01s17.com/blog">wh01s17 Blog & Portfolio</a></h3>
+      <p>A static-generated knowledge base with searchable CTF writeups, vulnerability notes, technical articles, RSS, and per-route SEO.</p>
+      <p><code>Vue 3 · TypeScript · Vite SSG · Firebase</code></p>
+      <p><a href="https://wh01s17.com/blog"><code>./read-blog</code></a></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://sudoaprende.com/" aria-label="Open the sudo-aprende learning platform">
+        <img src="https://sudoaprende.com/og-image.png" alt="sudo-aprende: interactive GNU/Linux, Git, Cisco IOS, and cybersecurity learning platform" width="420">
+      </a>
+      <h3><a href="https://sudoaprende.com/">sudo-aprende</a></h3>
+      <p>An open interactive lab for GNU/Linux, Git, and Cisco IOS with guided terminal exercises, pentesting labs, instant feedback, XP, achievements, and a community ranking.</p>
+      <p><code>Vue 3 · TypeScript · Supabase · Vitest</code></p>
+      <p><a href="https://sudoaprende.com/"><code>./start-learning</code></a></p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
