@@ -96,7 +96,7 @@ permission denied: self-destruct disabled
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wh01s17&theme=github_dark&title_color=75d41d&text_color=c9d1d9&bg_color=0d1117&border_color=75d41d&icon_color=75d41d&chart_color=75d41d" alt="GitHub stats" height="200"/>
   
-  <img src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-languages.svg" alt="Top languages by repository" height="200"/>
+  <img src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-languages.svg?v=2" alt="Top languages by repository" height="200"/>
 </p>
 
 <p align="center">
