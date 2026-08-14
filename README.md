@@ -88,22 +88,18 @@ permission denied: self-destruct disabled
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
-  <a href="https://wh01s17.com/blog">
-    <img src="https://www.wh01s17.com/og.png" alt="Terminal-style preview of the wh01s17 blog and portfolio" width="420">
+  <a href="https://wh01s17.com/blog" aria-label="Open the wh01s17 blog and portfolio">
+    <img src="https://www.wh01s17.com/og.png" alt="wh01s17 blog and portfolio: CTF writeups, vulnerability notes, and technical articles" width="420">
   </a>
-  <a href="https://sudoaprende.com/">
-    <img src="https://sudoaprende.com/og-image.png" alt="Terminal-style preview of the sudo-aprende learning platform" width="420">
+  <a href="https://sudoaprende.com/" aria-label="Open the sudo-aprende learning platform">
+    <img src="https://sudoaprende.com/og-image.png" alt="sudo-aprende: interactive GNU/Linux, Git, Cisco IOS, and cybersecurity learning platform" width="420">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://wh01s17.com/blog">wh01s17 Blog & Portfolio</a></strong><br>
-  A static-generated knowledge base with searchable CTF writeups, vulnerability notes, technical articles, RSS, and per-route SEO.<br>
-  <code>Vue 3 · TypeScript · Vite SSG · Firebase</code> · <a href="https://wh01s17.com/blog"><code>./read-blog</code></a>
-  <br><br>
-  <strong><a href="https://sudoaprende.com/">sudo-aprende</a></strong><br>
-  An open interactive lab for GNU/Linux, Git, and Cisco IOS with guided terminal exercises, pentesting labs, instant feedback, XP, achievements, and a community ranking.<br>
-  <code>Vue 3 · TypeScript · Supabase · Vitest</code> · <a href="https://sudoaprende.com/"><code>./start-learning</code></a>
+  <a href="https://wh01s17.com/blog"><code>./read-blog</code></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sudoaprende.com/"><code>./start-learning</code></a>
 </p>
 
 <br>
