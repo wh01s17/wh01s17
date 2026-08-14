@@ -1,9 +1,14 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
     schedule:
         - cron: "0 0 * * *"
     workflow_dispatch:
+    push:
+        branches:
+            - main
+        paths:
+            - ".github/workflows/snake.yml"
 
 permissions:
     contents: write
@@ -22,7 +27,17 @@ jobs:
                       dist/github-snake.svg
                       dist/github-snake-dark.svg?palette=github-dark
 
-            - name: Push snake SVG to output branch
+            - name: Generate customized languages card
+              shell: bash
+              run: |
+                  mkdir -p dist
+                  curl --fail --silent --show-error --location --retry 3 \
+                    "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wh01s17&theme=github_dark&title_color=75d41d&text_color=c9d1d9&bg_color=0d1117&border_color=75d41d&icon_color=75d41d&chart_color=75d41d" \
+                    --output dist/github-languages.svg
+                  grep -q 'Top Languages by Repo' dist/github-languages.svg
+                  sed -i 's/#3572A5/#A371F7/g' dist/github-languages.svg
+
+            - name: Push profile assets to output branch
               uses: crazy-max/ghaction-github-pages@v4
               with:
                   target_branch: output
