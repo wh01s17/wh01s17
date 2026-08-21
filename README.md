@@ -69,10 +69,8 @@ I teach cybersecurity and networking while building hands-on learning resources 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS">
-  <img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge" alt="TCP/IP">
   <img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-0D1117?style=for-the-badge" alt="IPv4 and IPv6">
-  <img src="https://img.shields.io/badge/Routing-0D1117?style=for-the-badge" alt="Routing">
-  <img src="https://img.shields.io/badge/Switching-0D1117?style=for-the-badge" alt="Switching">
+  <img src="https://img.shields.io/badge/Routing_%26_Switching-0D1117?style=for-the-badge" alt="Routing and Switching">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
 </p>
