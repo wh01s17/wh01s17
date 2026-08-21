@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=000000&center=true&vCenter=true&width=880&height=120&lines=%3CFront-End+Developer+/%3E;%3CEthical+Hacking+/%3E;%3CCTF+Player+/%3E;%3CBootcamp+Instructor+/%3E;%3CREUF+Instructor+(SENCE)+/%3E" alt="Roles: Front-End Developer, Ethical Hacker, CTF Player and Instructor" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=000000&center=true&vCenter=true&width=880&height=120&lines=%3CCisco+Instructor+/%3E;%3CCybersecurity+Instructor+/%3E;%3CFront-End+Developer+/%3E;%3CEthical+Hacking+/%3E;%3CDigital+Forensics+/%3E;%3CCTF+Player+/%3E;%3CREUF+Facilitator+(SENCE)+/%3E" alt="Roles: Cisco Instructor, Cybersecurity Instructor, Front-End Developer, Ethical Hacker, Digital Forensics, CTF Player and REUF Facilitator" />
 </p>
 
 <p align="center">
@@ -14,18 +14,25 @@
 <br />
 
 <p align="center">
-Front-end developer and bootcamp instructor focused on modern web development, technical education, and cybersecurity for web applications.
+Cisco Instructor, cybersecurity educator, and Front-End Developer focused on networking, ethical hacking, digital forensics, and modern web technologies.
 </p>
 
 <p align="center">
-I lead intensive Front-End and Full Stack training programs, guiding students from web fundamentals to building production-ready applications and professional portfolios.
+I teach cybersecurity and networking while building hands-on learning resources focused on GNU/Linux, Cisco IOS, ethical hacking, digital forensics, and web development.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="cisco-logo.png" alt="Cisco logo" height="50"><br>
+  <sub>Cisco Networking Academy Instructor</sub>
 </p>
 
 <br>
 
 <p align="center">
   <img src="sence-logo.png" alt="SENCE logo" height="50"><br>
-  <sub>REUF Instructor - SENCE Certified Training Programs</sub>
+  <sub>REUF Facilitator · SENCE</sub>
 </p>
 
 <br>
@@ -58,13 +65,29 @@ I lead intensive Front-End and Full Stack training programs, guiding students fr
 
 <br>
 
+<h2 align="center">Networking</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS">
+  <img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge" alt="TCP/IP">
+  <img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-0D1117?style=for-the-badge" alt="IPv4 and IPv6">
+  <img src="https://img.shields.io/badge/Routing-0D1117?style=for-the-badge" alt="Routing">
+  <img src="https://img.shields.io/badge/Switching-0D1117?style=for-the-badge" alt="Switching">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+</p>
+
+<br>
+
 <h2 align="center">Cybersecurity</h2>
 
 ```bash
 wh01s17@pwned:~$ echo $PROFILE
-ROLE        : Front-End Developer
-SECURITY    : Web Security
-ACTIVITY    : Ethical Hacking
+ROLE        : Cisco Networking Academy Instructor
+TEACHING    : Cybersecurity & Digital Forensics
+DEVELOPMENT : Front-End Developer
+SECURITY    : Ethical Hacking
+NETWORKING  : Cisco Networking
 MODE        : CTF Player
 SPECIALTY   : Pentesting
 
@@ -74,6 +97,7 @@ WEB TESTING  : Burp Suite
 CREDENTIALS  : Hydra, John the Ripper, Hashcat
 EXPLOITATION : Metasploit
 NETWORK      : tcpdump, Wireshark
+FORENSICS    : Volatility, Autopsy
 REVERSING    : Ghidra
 
 wh01s17@pwned:~$ echo $PLATFORMS
@@ -99,11 +123,11 @@ permission denied: self-destruct disabled
       <p><a href="https://wh01s17.com/blog"><code>./read-blog</code></a></p>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://sudoaprende.com/" aria-label="Open the sudo-aprende learning platform">
-        <img src="https://sudoaprende.com/og-image.png" alt="sudo-aprende: interactive GNU/Linux, Git, Cisco IOS, and cybersecurity learning platform" width="420">
+      <a href="https://sudoaprende.com/" aria-label="Open the sudoaprende.com learning platform">
+        <img src="https://sudoaprende.com/og-image.png" alt="sudoaprende.com: interactive GNU/Linux, Git, Cisco IOS, and cybersecurity learning platform" width="420">
       </a>
-      <h3><a href="https://sudoaprende.com/">sudo-aprende</a></h3>
-      <p>An open interactive lab for GNU/Linux, Git, and Cisco IOS with guided terminal exercises, pentesting labs, instant feedback, XP, achievements, and a community ranking.</p>
+      <h3><a href="https://sudoaprende.com/">sudoaprende.com</a></h3>
+      <p>An open interactive learning platform for GNU/Linux, Git, Cisco IOS, and cybersecurity with guided terminal exercises, pentesting labs, instant feedback, XP, achievements, and community rankings.</p>
       <p><code>Vue 3 · TypeScript · Supabase · Vitest</code></p>
       <p><a href="https://sudoaprende.com/"><code>./start-learning</code></a></p>
     </td>
