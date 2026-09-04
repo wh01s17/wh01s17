@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="banner2.webp" alt="wh01s17 cybersecurity profile banner" width="880">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=000000&center=true&vCenter=true&width=880&height=120&lines=%3CCisco+Instructor+/%3E;%3CCybersecurity+Instructor+/%3E;%3CFront-End+Developer+/%3E;%3CEthical+Hacking+/%3E;%3CDigital+Forensics+/%3E;%3CCTF+Player+/%3E;%3CREUF+Facilitator+(SENCE)+/%3E" alt="Roles: Cisco Instructor, Cybersecurity Instructor, Front-End Developer, Ethical Hacker, Digital Forensics, CTF Player and REUF Facilitator" />
+  <img src="img/banner.svg" alt="wh01s17 banner: outlined W mark with the wh01s17 wordmark and a rotating role line — Cisco Instructor, Cybersecurity Instructor, Front-End Developer, Ethical Hacking, Digital Forensics, CTF Player and REUF Facilitator (SENCE)" width="880">
 </p>
 
 <p align="center">
