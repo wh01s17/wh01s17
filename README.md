@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-Cisco Instructor, cybersecurity educator, and Front-End Developer focused on networking, ethical hacking, digital forensics, and modern web technologies.
+Cybersecurity educator, Cisco Instructor, and Front-End Developer focused on networking, ethical hacking, digital forensics, and modern web technologies.
 </p>
 
 <p align="center">
