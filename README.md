@@ -142,10 +142,8 @@ permission denied: self-destruct disabled
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wh01s17&theme=github_dark&title_color=75d41d&text_color=c9d1d9&bg_color=0d1117&border_color=75d41d&icon_color=75d41d&chart_color=75d41d" alt="GitHub profile details"/>
 </p>
 
-<h2 align="center">Activity</h2>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wh01s17&theme=chartreuse-dark&hide_border=true" alt="GitHub contribution activity graph"/>
+  <img src="https://streak-stats.demolab.com/?user=wh01s17&background=0D1117&border=75d41d&stroke=75d41d&ring=75d41d&fire=75d41d&currStreakLabel=75d41d&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub contribution streak: current streak, longest streak and total contributions" height="200"/>
 </p>
 
 <p align="center">
