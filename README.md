@@ -136,7 +136,15 @@ permission denied: self-destruct disabled
       <p><code>Python · Textual · mpv · PyPI</code></p>
       <p><a href="https://pypi.org/project/tidalamp/"><code>./pipx-install</code></a></p>
     </td>
-    <td width="50%" align="center" valign="top"></td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://s3cflow.site" aria-label="Open the S3CFLOW security documentation workspace">
+        <img src="https://s3cflow.site/og.png" alt="S3CFLOW: security workflows, evidence and reporting for digital forensics, incident response, penetration testing and red team engagements" width="420">
+      </a>
+      <h3><a href="https://s3cflow.site">S3CFLOW</a></h3>
+      <p>A workspace for documenting cybersecurity engagements against real methodologies (NIST SP 800-86, 800-61r3, 800-115, OWASP WSTG, MITRE ATT&amp;CK) with an append-only evidence chain of custody, findings, and immutable sealed reports exported to PDF, Markdown, and LaTeX.</p>
+      <p><code>Vue 3 · TypeScript · Supabase · Postgres RLS</code></p>
+      <p><a href="https://s3cflow.site"><code>./open-workspace</code></a></p>
+    </td>
   </tr>
 </table>
 
