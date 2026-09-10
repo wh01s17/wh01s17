@@ -126,6 +126,18 @@ permission denied: self-destruct disabled
       <p><a href="https://sudoaprende.com/"><code>./start-learning</code></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/wh01s17/tidalamp" aria-label="Open the tidalamp repository">
+        <img src="https://raw.githubusercontent.com/wh01s17/tidalamp/main/img/tidalamp-banner.svg" alt="tidalamp: a Winamp-style TIDAL player running in a terminal, cycling through six colour palettes" width="420">
+      </a>
+      <h3><a href="https://github.com/wh01s17/tidalamp">tidalamp</a></h3>
+      <p>A TIDAL client for the Linux terminal with a Winamp-style interface: hi-res playback through mpv, library browsing and search, synced lyrics, a 10-band equalizer, album art, a real FFT spectrum analyzer, and MPRIS desktop integration.</p>
+      <p><code>Python · Textual · mpv · PyPI</code></p>
+      <p><a href="https://pypi.org/project/tidalamp/"><code>./pipx-install</code></a></p>
+    </td>
+    <td width="50%" align="center" valign="top"></td>
+  </tr>
 </table>
 
 <br>
