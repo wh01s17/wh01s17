@@ -128,15 +128,6 @@ permission denied: self-destruct disabled
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/wh01s17/tidalamp" aria-label="Open the tidalamp repository">
-        <img src="https://raw.githubusercontent.com/wh01s17/tidalamp/main/img/tidalamp-banner.svg" alt="tidalamp: a Winamp-style TIDAL player running in a terminal, cycling through six colour palettes" width="420">
-      </a>
-      <h3><a href="https://github.com/wh01s17/tidalamp">tidalamp</a></h3>
-      <p>A TIDAL client for the Linux terminal with a Winamp-style interface: hi-res playback through mpv, library browsing and search, synced lyrics, a 10-band equalizer, album art, a real FFT spectrum analyzer, and MPRIS desktop integration.</p>
-      <p><code>Python · Textual · mpv · PyPI</code></p>
-      <p><a href="https://pypi.org/project/tidalamp/"><code>./pipx-install</code></a></p>
-    </td>
-    <td width="50%" align="center" valign="top">
       <a href="https://s3cflow.site" aria-label="Open the S3CFLOW security documentation workspace">
         <img src="https://s3cflow.site/og.png" alt="S3CFLOW: security workflows, evidence and reporting for digital forensics, incident response, penetration testing and red team engagements" width="420">
       </a>
@@ -144,6 +135,15 @@ permission denied: self-destruct disabled
       <p>A workspace for documenting cybersecurity engagements against real methodologies (NIST SP 800-86, 800-61r3, 800-115, OWASP WSTG, MITRE ATT&amp;CK) with an append-only evidence chain of custody, findings, and immutable sealed reports exported to PDF, Markdown, and LaTeX.</p>
       <p><code>Vue 3 · TypeScript · Supabase · Postgres RLS</code></p>
       <p><a href="https://s3cflow.site"><code>./open-workspace</code></a></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/wh01s17/tidalamp" aria-label="Open the tidalamp repository">
+        <img src="https://raw.githubusercontent.com/wh01s17/tidalamp/main/img/tidalamp-banner.svg" alt="tidalamp: a Winamp-style TIDAL player running in a terminal, cycling through six colour palettes" width="420">
+      </a>
+      <h3><a href="https://github.com/wh01s17/tidalamp">tidalamp</a></h3>
+      <p>A TIDAL client for the Linux terminal with a Winamp-style interface: hi-res playback through mpv, library browsing and search, synced lyrics, a 10-band equalizer, album art, a real FFT spectrum analyzer, and MPRIS desktop integration.</p>
+      <p><code>Python · Textual · mpv · PyPI</code></p>
+      <p><a href="https://pypi.org/project/tidalamp/"><code>./pipx-install</code></a></p>
     </td>
   </tr>
 </table>
