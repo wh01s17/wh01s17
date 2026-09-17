@@ -32,7 +32,7 @@ jobs:
               run: |
                   mkdir -p dist
                   curl --fail --silent --show-error --location --retry 3 \
-                    "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wh01s17&theme=github_dark&title_color=75d41d&text_color=c9d1d9&bg_color=0d1117&border_color=75d41d&icon_color=75d41d&chart_color=75d41d" \
+                    "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wh01s17&theme=github_dark&title_color=84c959&text_color=c9d1d9&bg_color=0d1117&border_color=84c959&icon_color=84c959&chart_color=84c959" \
                     --output dist/github-languages.svg
                   grep -q 'Top Languages by Repo' dist/github-languages.svg
                   sed -i 's/#3572A5/#A371F7/g' dist/github-languages.svg

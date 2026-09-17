@@ -153,17 +153,17 @@ permission denied: self-destruct disabled
 <h2 align="center">GitHub Metrics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wh01s17&theme=github_dark&title_color=75d41d&text_color=c9d1d9&bg_color=0d1117&border_color=75d41d&icon_color=75d41d&chart_color=75d41d" alt="GitHub stats" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wh01s17&theme=github_dark&title_color=84c959&text_color=c9d1d9&bg_color=0d1117&border_color=84c959&icon_color=84c959&chart_color=84c959" alt="GitHub stats" height="200"/>
   
   <img src="https://raw.githubusercontent.com/wh01s17/wh01s17/output/github-languages.svg?v=2" alt="Top languages by repository" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wh01s17&theme=github_dark&title_color=75d41d&text_color=c9d1d9&bg_color=0d1117&border_color=75d41d&icon_color=75d41d&chart_color=75d41d" alt="GitHub profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wh01s17&theme=github_dark&title_color=84c959&text_color=c9d1d9&bg_color=0d1117&border_color=84c959&icon_color=84c959&chart_color=84c959" alt="GitHub profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wh01s17&background=0D1117&border=75d41d&stroke=75d41d&ring=75d41d&fire=75d41d&currStreakLabel=75d41d&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub contribution streak: current streak, longest streak and total contributions" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=wh01s17&background=0D1117&border=84c959&stroke=84c959&ring=84c959&fire=84c959&currStreakLabel=84c959&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub contribution streak: current streak, longest streak and total contributions" height="200"/>
 </p>
 
 <p align="center">
