@@ -179,7 +179,7 @@ permission denied: self-destruct disabled
 <h2 align="center">☕ Buy me a coffee</h2>
 
 <p align="center">
-If my books, guides, CTF writeups, or open-source projects have helped you learn something or solve a problem, you can buy me a coffee. Your support helps me keep creating and sharing free educational resources. It's completely optional and always appreciated.
+If my book, guides, CTF writeups, or open-source projects have helped you learn something or solve a problem, you can buy me a coffee. Your support helps me keep creating and sharing free educational resources. It's completely optional and always appreciated.
 </p>
 
 <p align="center">
