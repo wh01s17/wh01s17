@@ -150,6 +150,19 @@ permission denied: self-destruct disabled
 
 <br>
 
+<h2 align="center">☕ Invítame un café</h2>
+
+<p align="center">
+  <a href="https://link.mercadopago.cl/sudoaprende">
+    <img src="https://img.shields.io/badge/MercadoPago-Chile_%C2%B7_CLP-009EE3?style=for-the-badge&amp;logo=mercadopago&amp;logoColor=white" alt="Invítame un café con MercadoPago (Chile · CLP)">
+  </a>
+  <a href="https://paypal.me/sudoaprende">
+    <img src="https://img.shields.io/badge/PayPal-Internacional-003087?style=for-the-badge&amp;logo=paypal&amp;logoColor=white" alt="Invítame un café con PayPal (internacional)">
+  </a>
+</p>
+
+<br>
+
 <h2 align="center">GitHub Metrics</h2>
 
 <p align="center">
