@@ -152,7 +152,7 @@ permission denied: self-destruct disabled
         <img src="img/introduccion-a-las-redes.png" alt="Cover of Introducción a las Redes by Jordy Pérez" width="220">
       </a>
       <h3><a href="https://github.com/wh01s17/book-introduccion-a-las-redes">Introducción a las Redes</a></h3>
-      <p>A free Spanish-language networking book with 872 pages across 17 modules, covering physical media, Ethernet, IPv4/IPv6, routing, network services, and security fundamentals. Includes original diagrams, Cisco IOS configuration examples, a command reference, and a glossary.</p>
+      <p>A free Spanish-language networking book with 800+ pages across 17 modules, covering physical media, Ethernet, IPv4/IPv6, routing, network services, and security fundamentals. Includes original diagrams, Cisco IOS configuration examples, a command reference, and a glossary.</p>
       <p><code>Networking · Cisco IOS · PDF · CC BY-NC-SA 4.0</code></p>
       <p><a href="https://sud0.link/intro-redes"><code>./download-book</code></a></p>
     </td>
