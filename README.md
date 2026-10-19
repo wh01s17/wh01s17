@@ -176,13 +176,17 @@ permission denied: self-destruct disabled
 
 <br>
 
-<h2 align="center">☕ Invítame un café</h2>
+<h2 align="center">☕ Buy me a coffee</h2>
+
+<p align="center">
+If my books, guides, CTF writeups, or open-source projects have helped you learn something or solve a problem, you can buy me a coffee. Your support helps me keep creating and sharing free educational resources. It's completely optional and always appreciated.
+</p>
 
 <p align="center">
   <a href="https://link.mercadopago.cl/sudoaprende">
-    <img src="https://img.shields.io/badge/MercadoPago-Chile_%C2%B7_CLP-009EE3?style=for-the-badge&amp;logo=mercadopago&amp;logoColor=white" alt="Invítame un café con MercadoPago (Chile · CLP)">
+    <img src="https://img.shields.io/badge/MercadoPago-Chile_%C2%B7_CLP-009EE3?style=for-the-badge&amp;logo=mercadopago&amp;logoColor=white" alt="Buy me a coffee via MercadoPago (Chile · CLP)">
   </a>
   <a href="https://paypal.me/sudoaprende">
-    <img src="https://img.shields.io/badge/PayPal-Internacional-003087?style=for-the-badge&amp;logo=paypal&amp;logoColor=white" alt="Invítame un café con PayPal (internacional)">
+    <img src="https://img.shields.io/badge/PayPal-International-003087?style=for-the-badge&amp;logo=paypal&amp;logoColor=white" alt="Buy me a coffee via PayPal (international)">
   </a>
 </p>
