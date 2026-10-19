@@ -156,6 +156,15 @@ permission denied: self-destruct disabled
       <p><code>Python · Textual · mpv · PyPI</code></p>
       <p><a href="https://pypi.org/project/tidalamp/"><code>./pipx-install</code></a></p>
     </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/wh01s17/agenthub-plugin-obsidian" aria-label="Open the AgentHub for Obsidian repository">
+        <img src="https://raw.githubusercontent.com/wh01s17/agenthub-plugin-obsidian/main/docs/images/chat.png" alt="AgentHub for Obsidian: a coding agent conversation alongside notes, with tool calls and interactive permissions" width="420">
+      </a>
+      <h3><a href="https://github.com/wh01s17/agenthub-plugin-obsidian">AgentHub for Obsidian</a></h3>
+      <p>A desktop Obsidian plugin that brings Claude Code, Codex, and other coding agents into your notes. Includes tabbed conversations, note context, image attachments, visible tool calls and diffs, interactive permissions, session history, and Markdown exports.</p>
+      <p><code>TypeScript · Preact · Obsidian · ACP</code></p>
+      <p><a href="https://github.com/wh01s17/agenthub-plugin-obsidian"><code>./explore-plugin</code></a></p>
+    </td>
   </tr>
 </table>
 
