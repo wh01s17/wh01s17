@@ -108,6 +108,15 @@ permission denied: self-destruct disabled
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
+      <a href="https://github.com/wh01s17/book-introduccion-a-las-redes" aria-label="Explore Introducción a las Redes, a free networking book in Spanish">
+        <img src="img/introduccion-a-las-redes.png" alt="Cover of Introducción a las Redes by Jordy Pérez" height="220">
+      </a>
+      <h3><a href="https://github.com/wh01s17/book-introduccion-a-las-redes">Introducción a las Redes</a></h3>
+      <p>A free Spanish-language networking book with 800+ pages across 17 modules, covering physical media, Ethernet, IPv4/IPv6, routing, network services, and security fundamentals. Includes original diagrams, Cisco IOS configuration examples, a command reference, and a glossary.</p>
+      <p><code>Networking · Cisco IOS · PDF · CC BY-NC-SA 4.0</code></p>
+      <p><a href="https://sud0.link/intro-redes"><code>./download-book</code></a></p>
+    </td>
+    <td width="50%" align="center" valign="top">
       <a href="https://wh01s17.com/blog" aria-label="Open the wh01s17 blog and portfolio">
         <img src="https://www.wh01s17.com/og.png" alt="wh01s17 blog and portfolio: CTF writeups, vulnerability notes, and technical articles" width="420">
       </a>
@@ -116,6 +125,8 @@ permission denied: self-destruct disabled
       <p><code>Vue 3 · TypeScript · Vite SSG · Firebase</code></p>
       <p><a href="https://wh01s17.com/blog"><code>./read-blog</code></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://sudoaprende.com/" aria-label="Open the sudoaprende.com learning platform">
         <img src="https://sudoaprende.com/og-image.png" alt="sudoaprende.com: interactive GNU/Linux, Git, Cisco IOS, and cybersecurity learning platform" width="420">
@@ -125,8 +136,6 @@ permission denied: self-destruct disabled
       <p><code>Vue 3 · TypeScript · Supabase · Vitest</code></p>
       <p><a href="https://sudoaprende.com/"><code>./start-learning</code></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://s3cflow.site" aria-label="Open the S3CFLOW security documentation workspace">
         <img src="https://s3cflow.site/og.png" alt="S3CFLOW: security workflows, evidence and reporting for digital forensics, incident response, penetration testing and red team engagements" width="420">
@@ -136,6 +145,8 @@ permission denied: self-destruct disabled
       <p><code>Vue 3 · TypeScript · Supabase · Postgres RLS</code></p>
       <p><a href="https://s3cflow.site"><code>./open-workspace</code></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/wh01s17/tidalamp" aria-label="Open the tidalamp repository">
         <img src="https://raw.githubusercontent.com/wh01s17/tidalamp/main/img/tidalamp-banner.svg" alt="tidalamp: a Winamp-style TIDAL player running in a terminal, cycling through six colour palettes" width="420">
@@ -144,17 +155,6 @@ permission denied: self-destruct disabled
       <p>A TIDAL client for the Linux terminal with a Winamp-style interface: hi-res playback through mpv, library browsing and search, synced lyrics, a 10-band equalizer, album art, a real FFT spectrum analyzer, and MPRIS desktop integration.</p>
       <p><code>Python · Textual · mpv · PyPI</code></p>
       <p><a href="https://pypi.org/project/tidalamp/"><code>./pipx-install</code></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/wh01s17/book-introduccion-a-las-redes" aria-label="Explore Introducción a las Redes, a free networking book in Spanish">
-        <img src="img/introduccion-a-las-redes.png" alt="Cover of Introducción a las Redes by Jordy Pérez" width="220">
-      </a>
-      <h3><a href="https://github.com/wh01s17/book-introduccion-a-las-redes">Introducción a las Redes</a></h3>
-      <p>A free Spanish-language networking book with 800+ pages across 17 modules, covering physical media, Ethernet, IPv4/IPv6, routing, network services, and security fundamentals. Includes original diagrams, Cisco IOS configuration examples, a command reference, and a glossary.</p>
-      <p><code>Networking · Cisco IOS · PDF · CC BY-NC-SA 4.0</code></p>
-      <p><a href="https://sud0.link/intro-redes"><code>./download-book</code></a></p>
     </td>
   </tr>
 </table>
