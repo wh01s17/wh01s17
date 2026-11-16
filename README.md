@@ -166,6 +166,20 @@ permission denied: self-destruct disabled
       <p><a href="https://github.com/wh01s17/agenthub-plugin-obsidian"><code>./explore-plugin</code></a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/wh01s17/android-launcher" aria-label="Open the wh01s17 Launcher repository">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh01s17/android-launcher/main/docs/readme/overview-dark.png">
+          <img src="https://raw.githubusercontent.com/wh01s17/android-launcher/main/docs/readme/overview-light.png" alt="wh01s17 Launcher on a Redmi phone: tiled desktop with a clock widget, the wh01s17 command menu, and tile editing mode" width="640">
+        </picture>
+      </a>
+      <h3><a href="https://github.com/wh01s17/android-launcher">wh01s17 Launcher</a></h3>
+      <p>An Android launcher that brings the Hyprland workflow to the phone: ten workspaces with dwindle and master tiling, a modular bar, a fuzzy command menu, configurable keyboard shortcuts and gestures, custom widgets (TIDAL visualizers, pomodoro, metronome, system monitor), 16 palettes, and a spinning-W screensaver. Built for HyperOS with its own navigation, and no network permission at all.</p>
+      <p><code>Kotlin · Jetpack Compose · Android 15 · HyperOS</code></p>
+      <p><a href="https://github.com/wh01s17/android-launcher/releases/latest"><code>./download-apk</code></a></p>
+    </td>
+  </tr>
 </table>
 
 <br>
