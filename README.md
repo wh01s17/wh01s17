@@ -181,7 +181,7 @@ permission denied: self-destruct disabled
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/wh01s17/evo8-linux" aria-label="Open the evo8-linux repository">
-        <img src="https://raw.githubusercontent.com/wh01s17/evo8-linux/main/docs/img/consola.png" alt="evo8-linux mixer window: console strips for the Audient EVO 8 inputs with preamp, faders and meters, the shared apps channel, the virtual microphone, the outputs and sound card profiles" width="420">
+        <img src="https://raw.githubusercontent.com/wh01s17/evo8-linux/main/src/evo8/data/evo8-mixer.svg" alt="evo8-linux logo: a pixel 8 coloured like a level meter" height="220">
       </a>
       <h3><a href="https://github.com/wh01s17/evo8-linux">evo8-linux</a></h3>
       <p>Control for the Audient EVO 8 audio interface on Linux. It drives the hardware the kernel doesn't expose (the internal monitor mix, loop-back routing, preamps and 48 V phantom) straight over USB, with a reverse-engineered protocol. It also adds a console-style mixer for PipeWire and an optional virtual microphone that blends your inputs with audio from other apps, with latency compensation for playing along.</p>
