@@ -109,19 +109,19 @@ permission denied: self-destruct disabled
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/wh01s17/book-introduccion-a-las-redes" aria-label="Explore Introducción a las Redes, a free networking book in Spanish">
-        <img src="img/introduccion-a-las-redes.png" alt="Cover of Introducción a las Redes by Jordy Pérez" height="220">
+        <img height="180" src="img/introduccion-a-las-redes.png" alt="Cover of Introducción a las Redes by Jordy Pérez">
       </a>
       <h3><a href="https://github.com/wh01s17/book-introduccion-a-las-redes">Introducción a las Redes</a></h3>
-      <p>A free Spanish-language networking book with 800+ pages across 17 modules, covering physical media, Ethernet, IPv4/IPv6, routing, network services, and security fundamentals. Includes original diagrams, Cisco IOS configuration examples, a command reference, and a glossary.</p>
-      <p><code>Networking · Cisco IOS · PDF · CC BY-NC-SA 4.0</code></p>
+      <p>A free Spanish-language networking book: 800+ pages across 17 modules, from physical media and Ethernet to IPv4/IPv6, routing and security, with original diagrams and Cisco IOS examples.</p>
+      <p><code>Networking · Cisco IOS · CC BY-NC-SA</code></p>
       <p><a href="https://sud0.link/intro-redes"><code>./download-book</code></a></p>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://wh01s17.com/blog" aria-label="Open the wh01s17 blog and portfolio">
-        <img src="https://www.wh01s17.com/og.png" alt="wh01s17 blog and portfolio: CTF writeups, vulnerability notes, and technical articles" width="420">
+        <img height="180" src="https://www.wh01s17.com/og.png" alt="wh01s17 blog and portfolio: CTF writeups, vulnerability notes, and technical articles">
       </a>
       <h3><a href="https://wh01s17.com/blog">wh01s17 Blog & Portfolio</a></h3>
-      <p>A static-generated knowledge base with searchable CTF writeups, vulnerability notes, technical articles, RSS, and per-route SEO.</p>
+      <p>A static-generated knowledge base of CTF writeups, vulnerability notes and technical articles on pentesting, networking and web development, with search, RSS and per-route SEO.</p>
       <p><code>Vue 3 · TypeScript · Vite SSG · Firebase</code></p>
       <p><a href="https://wh01s17.com/blog"><code>./read-blog</code></a></p>
     </td>
@@ -129,39 +129,39 @@ permission denied: self-destruct disabled
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://sudoaprende.com/" aria-label="Open the sudoaprende.com learning platform">
-        <img src="https://sudoaprende.com/og-image.png" alt="sudoaprende.com: interactive GNU/Linux, Git, Cisco IOS, and cybersecurity learning platform" width="420">
+        <img height="180" src="https://sudoaprende.com/og-image.png" alt="sudoaprende.com: interactive GNU/Linux, Git, Cisco IOS, and cybersecurity learning platform">
       </a>
       <h3><a href="https://sudoaprende.com/">sudoaprende.com</a></h3>
-      <p>An open interactive learning platform for GNU/Linux, Git, Cisco IOS, and cybersecurity with guided terminal exercises, pentesting labs, instant feedback, XP, achievements, and community rankings.</p>
+      <p>An open learning platform for GNU/Linux, Git, Cisco IOS and cybersecurity: guided terminal exercises, pentesting labs, instant feedback, XP, achievements and community rankings.</p>
       <p><code>Vue 3 · TypeScript · Supabase · Vitest</code></p>
       <p><a href="https://sudoaprende.com/"><code>./start-learning</code></a></p>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://s3cflow.site" aria-label="Open the S3CFLOW security documentation workspace">
-        <img src="https://s3cflow.site/og.png" alt="S3CFLOW: security workflows, evidence and reporting for digital forensics, incident response, penetration testing and red team engagements" width="420">
+        <img height="180" src="https://s3cflow.site/og.png" alt="S3CFLOW: security workflows, evidence and reporting for digital forensics, incident response, penetration testing and red team engagements">
       </a>
       <h3><a href="https://s3cflow.site">S3CFLOW</a></h3>
-      <p>A workspace for documenting cybersecurity engagements against real methodologies (NIST SP 800-86, 800-61r3, 800-115, OWASP WSTG, MITRE ATT&amp;CK) with an append-only evidence chain of custody, findings, and immutable sealed reports exported to PDF, Markdown, and LaTeX.</p>
-      <p><code>Vue 3 · TypeScript · Supabase · Postgres RLS</code></p>
+      <p>A workspace for documenting security engagements against NIST, OWASP and MITRE ATT&amp;CK, with an append-only chain of custody and sealed reports in PDF, Markdown and LaTeX.</p>
+      <p><code>Vue 3 · TypeScript · Supabase · Postgres</code></p>
       <p><a href="https://s3cflow.site"><code>./open-workspace</code></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/wh01s17/tidalamp" aria-label="Open the tidalamp repository">
-        <img src="https://raw.githubusercontent.com/wh01s17/tidalamp/main/img/tidalamp-banner.svg" alt="tidalamp: a Winamp-style TIDAL player running in a terminal, cycling through six colour palettes" width="420">
+        <img height="180" src="https://raw.githubusercontent.com/wh01s17/tidalamp/main/img/tidalamp-banner.svg" alt="tidalamp: a Winamp-style TIDAL player running in a terminal, cycling through six colour palettes">
       </a>
       <h3><a href="https://github.com/wh01s17/tidalamp">tidalamp</a></h3>
-      <p>A TIDAL client for the Linux terminal with a Winamp-style interface: hi-res playback through mpv, library browsing and search, synced lyrics, a 10-band equalizer, album art, a real FFT spectrum analyzer, and MPRIS desktop integration.</p>
+      <p>A TIDAL client for the Linux terminal with a Winamp-style interface: hi-res playback through mpv, synced lyrics, a 10-band equalizer, a real FFT spectrum analyzer and MPRIS.</p>
       <p><code>Python · Textual · mpv · PyPI</code></p>
       <p><a href="https://pypi.org/project/tidalamp/"><code>./pipx-install</code></a></p>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/wh01s17/agenthub-plugin-obsidian" aria-label="Open the AgentHub for Obsidian repository">
-        <img src="https://raw.githubusercontent.com/wh01s17/agenthub-plugin-obsidian/main/docs/images/chat.png" alt="AgentHub for Obsidian: a coding agent conversation alongside notes, with tool calls and interactive permissions" width="420">
+        <img height="180" src="https://raw.githubusercontent.com/wh01s17/agenthub-plugin-obsidian/main/docs/images/chat.png" alt="AgentHub for Obsidian: a coding agent conversation alongside notes, with tool calls and interactive permissions">
       </a>
       <h3><a href="https://github.com/wh01s17/agenthub-plugin-obsidian">AgentHub for Obsidian</a></h3>
-      <p>A desktop Obsidian plugin that brings Claude Code, Codex, and other coding agents into your notes. Includes tabbed conversations, note context, image attachments, visible tool calls and diffs, interactive permissions, session history, and Markdown exports.</p>
+      <p>An Obsidian plugin that brings Claude Code, Codex and other coding agents into your notes: tabbed chats, note context, visible tool calls and diffs, permissions and session history.</p>
       <p><code>TypeScript · Preact · Obsidian · ACP</code></p>
       <p><a href="https://github.com/wh01s17/agenthub-plugin-obsidian"><code>./explore-plugin</code></a></p>
     </td>
@@ -171,21 +171,21 @@ permission denied: self-destruct disabled
       <a href="https://github.com/wh01s17/android-launcher" aria-label="Open the wh01s17 Launcher repository">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh01s17/android-launcher/main/docs/readme/overview-dark.png">
-          <img src="https://raw.githubusercontent.com/wh01s17/android-launcher/main/docs/readme/overview-light.png" alt="wh01s17 Launcher on a Redmi phone: tiled desktop with a clock widget, the wh01s17 command menu, and tile editing mode" width="420">
+          <img height="180" src="https://raw.githubusercontent.com/wh01s17/android-launcher/main/docs/readme/overview-light.png" alt="wh01s17 Launcher on a Redmi phone: tiled desktop with a clock widget, the wh01s17 command menu, and tile editing mode">
         </picture>
       </a>
       <h3><a href="https://github.com/wh01s17/android-launcher">wh01s17 Launcher</a></h3>
-      <p>An Android launcher that brings the Hyprland workflow to the phone: ten workspaces with dwindle and master tiling, a modular bar, a fuzzy command menu, configurable keyboard shortcuts and gestures, custom widgets (TIDAL visualizers, pomodoro, metronome, system monitor), 16 palettes, and a spinning-W screensaver. Built for HyperOS with its own navigation, and no network permission at all.</p>
-      <p><code>Kotlin · Jetpack Compose · Android 15 · HyperOS</code></p>
+      <p>An Android launcher that brings the Hyprland workflow to the phone: tiled workspaces, a modular bar, a fuzzy command menu, custom widgets and 16 palettes, with no network permission.</p>
+      <p><code>Kotlin · Compose · Android 15 · HyperOS</code></p>
       <p><a href="https://github.com/wh01s17/android-launcher/releases/latest"><code>./download-apk</code></a></p>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/wh01s17/evo8-linux" aria-label="Open the evo8-linux repository">
-        <img src="https://raw.githubusercontent.com/wh01s17/evo8-linux/main/src/evo8/data/evo8-mixer.svg" alt="evo8-linux logo: a pixel 8 coloured like a level meter" height="220">
+        <img height="180" src="https://raw.githubusercontent.com/wh01s17/evo8-linux/main/src/evo8/data/evo8-mixer.svg" alt="evo8-linux logo: a pixel 8 coloured like a level meter">
       </a>
       <h3><a href="https://github.com/wh01s17/evo8-linux">evo8-linux</a></h3>
-      <p>Control for the Audient EVO 8 audio interface on Linux. It drives the hardware the kernel doesn't expose (the internal monitor mix, loop-back routing, preamps and 48 V phantom) straight over USB, with a reverse-engineered protocol. It also adds a console-style mixer for PipeWire and an optional virtual microphone that blends your inputs with audio from other apps, with latency compensation for playing along.</p>
-      <p><code>Python · PySide6 · QML · PipeWire · USB · PyPI</code></p>
+      <p>Control for the Audient EVO 8 on Linux: the internal monitor mix, loop-back, preamps and 48 V phantom over USB, plus a console-style PipeWire mixer and an optional virtual microphone.</p>
+      <p><code>Python · PySide6 · PipeWire · PyPI</code></p>
       <p><a href="https://pypi.org/project/evo8-linux/"><code>./pipx-install</code></a></p>
     </td>
   </tr>
