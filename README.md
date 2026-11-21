@@ -167,11 +167,11 @@ permission denied: self-destruct disabled
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/wh01s17/android-launcher" aria-label="Open the wh01s17 Launcher repository">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wh01s17/android-launcher/main/docs/readme/overview-dark.png">
-          <img src="https://raw.githubusercontent.com/wh01s17/android-launcher/main/docs/readme/overview-light.png" alt="wh01s17 Launcher on a Redmi phone: tiled desktop with a clock widget, the wh01s17 command menu, and tile editing mode" width="640">
+          <img src="https://raw.githubusercontent.com/wh01s17/android-launcher/main/docs/readme/overview-light.png" alt="wh01s17 Launcher on a Redmi phone: tiled desktop with a clock widget, the wh01s17 command menu, and tile editing mode" width="420">
         </picture>
       </a>
       <h3><a href="https://github.com/wh01s17/android-launcher">wh01s17 Launcher</a></h3>
@@ -179,11 +179,9 @@ permission denied: self-destruct disabled
       <p><code>Kotlin · Jetpack Compose · Android 15 · HyperOS</code></p>
       <p><a href="https://github.com/wh01s17/android-launcher/releases/latest"><code>./download-apk</code></a></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/wh01s17/evo8-linux" aria-label="Open the evo8-linux repository">
-        <img src="https://raw.githubusercontent.com/wh01s17/evo8-linux/main/docs/img/consola.png" alt="evo8-linux mixer window: console strips for the Audient EVO 8 inputs with preamp, faders and meters, the shared apps channel, the virtual microphone, the outputs and sound card profiles" width="640">
+        <img src="https://raw.githubusercontent.com/wh01s17/evo8-linux/main/docs/img/consola.png" alt="evo8-linux mixer window: console strips for the Audient EVO 8 inputs with preamp, faders and meters, the shared apps channel, the virtual microphone, the outputs and sound card profiles" width="420">
       </a>
       <h3><a href="https://github.com/wh01s17/evo8-linux">evo8-linux</a></h3>
       <p>Control for the Audient EVO 8 audio interface on Linux. It drives the hardware the kernel doesn't expose (the internal monitor mix, loop-back routing, preamps and 48 V phantom) straight over USB, with a reverse-engineered protocol. It also adds a console-style mixer for PipeWire and an optional virtual microphone that blends your inputs with audio from other apps, with latency compensation for playing along.</p>
