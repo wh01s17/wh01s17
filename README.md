@@ -189,6 +189,17 @@ permission denied: self-destruct disabled
       <p><a href="https://pypi.org/project/evo8-linux/"><code>./pipx-install</code></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/wh01s17/ge150-linux" aria-label="Open the ge150-linux repository">
+        <img height="180" src="https://raw.githubusercontent.com/wh01s17/ge150-linux/main/docs/img/efectos.png" alt="ge150-linux: the Effects tab with a drawn amplifier, the effects chain and the AI tone assistant panel">
+      </a>
+      <h3><a href="https://github.com/wh01s17/ge150-linux">ge150-linux</a></h3>
+      <p>An editor for the MOOER GE150 on Linux: live editing of its 200 presets over USB, a drawing of every modelled unit, TONE3000 cabinet IRs and an AI tone assistant using Claude Code or Codex.</p>
+      <p><code>Python · PySide6 · USB HID · PyPI</code></p>
+      <p><a href="https://pypi.org/project/ge150-linux/"><code>./pipx-install</code></a></p>
+    </td>
+  </tr>
 </table>
 
 <br>
