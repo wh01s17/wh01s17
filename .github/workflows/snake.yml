@@ -38,7 +38,7 @@ jobs:
                   sed -i 's/#3572A5/#A371F7/g' dist/github-languages.svg
 
             - name: Push profile assets to output branch
-              uses: crazy-max/ghaction-github-pages@v4
+              uses: crazy-max/ghaction-github-pages@v5
               with:
                   target_branch: output
                   build_dir: dist
